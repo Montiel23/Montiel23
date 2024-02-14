@@ -1,4 +1,4 @@
-##### Hi there, I'm Daniel Montiel 🧑‍🎓
+## Hi there, I'm Daniel Montiel 🧑‍🎓
 
 - # 🔭 Current Work
   I’m currently working on my master's degree. I am implementing quantum algorithms with deep learning model for medical image classification.
@@ -8,6 +8,8 @@
   I’m looking to collaborate on research related to machine and deep learning, medical image analysis, and quantum computing. 
 - # 📫 How to reach me
   dlopez@citedi.mx / lopezdaniel1fmcet58@gmail.com / @tenmaDjarin.
+  
+  # ℹ️ Additional information
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love meerkats, movies, and music.
 - 🕸️ Homepage: [https://montiel23.github.io/](https://montiel23.github.io/daniel-montielpz.github.io/)
