@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel Montiel 🧑‍🎓:
+### Hi there, I'm Daniel Montiel 🧑‍🎓
 
 <!--
 **Montiel23/Montiel23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
