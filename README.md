@@ -1,7 +1,7 @@
 ## Hi there, I'm Daniel Montiel 🧑‍🎓
 
 - # 🔭 Current Work
-  I’m currently working on my master's degree. I am implementing quantum algorithms with deep learning models for medical image classification.
+  I’m currently working on my PhD degree. I am implementing quantum algorithms with deep learning models for medical image classification.
 - # 🌱 Recent Studies
   I’m currently learning quantum computing, high performance computing, cloud computing, and data science.
 - # 👯 Team opportunities
